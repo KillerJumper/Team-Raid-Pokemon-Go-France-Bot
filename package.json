@@ -1,0 +1,19 @@
+{
+  "name": "team-raid-pokemon-go-france-bot-discord",
+  "version": "1.0.0",
+  "description": "Liste des méga de pokemon. Image public !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillerJumper/Team-Raid-Pokemon-Go-France-Bot.git"
+  },
+  "author": "Killer Jumper Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillerJumper/Team-Raid-Pokemon-Go-France-Bot/issues"
+  },
+  "homepage": "https://github.com/KillerJumper/Team-Raid-Pokemon-Go-France-Bot#readme"
+}
